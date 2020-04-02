@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './components/header'
 import Container from './components/container'
 import './App.css'
+import './bootstrap.css'
 
 function App() {
   return (
